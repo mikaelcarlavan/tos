@@ -1,0 +1,23 @@
+# Dolibarr language file - en_US - tos
+# Admin form
+CHARSET=UTF-8
+Module140300Desc=This module allows to joint Terms Of Sale to PDF documents (invoice, order and proposal)
+Module140300Name=Terms of sale
+CGV=Terms of sale
+CGVSetup=Configuration of ToS
+ErrorUploadingCGV=Error while uploading ToS
+CGVUpdated=ToS updated
+SelectCGVFile=You can add ToS by using the form below. Only PDF files can be uploaded
+ReadCGVFile=You can read your ToS by clicking the link below
+Ok=OK
+Cancel=Cancel
+WrongFileExtension=This file extension is not allowed. Only PDF files can be uploaded
+AddTOSToPDF=Add Terms of Sale to PDF
+ToSOptions=Options
+Name=Name
+Value=Value
+AutoAddToS=Insert automatically ToS to generated documents
+AddTosOnEachPage=Add ToS on each page
+DeleteFile=Delete file %s
+DefaultCGV=ToS default file
+
